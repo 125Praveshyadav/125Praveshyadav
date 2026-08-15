@@ -101,26 +101,7 @@ I'm **Pravesh Yadav**, a Computer Science Engineering student at **IIMT Engineer
 
 **TedBus** is a production-style bus booking platform inspired by modern travel applications.
 
-### ✨ Highlights
 
-- 🔐 JWT authentication & protected routes
-- 📱 Responsive React UI
-- 🔎 Bus search and filtering
-- 💺 Interactive seat selection
-- 🎫 Complete booking & ticket workflow
-- 💳 Razorpay payment integration
-- 🔔 Real-time notifications using Socket.IO
-- 👥 Travel community with posts, likes and comments
-- 💬 Forums and discussions
-- ⭐ Ratings & reviews
-- 🗺️ Interactive route planner using TomTom
-- 🌙 Persistent Dark Mode
-- 🌐 Internationalization (i18n)
-- 🎁 Coupons and offers
-- 🛡️ Admin dashboard
-- ☁️ MongoDB Atlas database
-- 🚀 Frontend deployed on Vercel
-- ⚙️ Backend deployed on Render
 
 ### 🔗 Project
 
@@ -136,24 +117,23 @@ I'm **Pravesh Yadav**, a Computer Science Engineering student at **IIMT Engineer
 
 ---
 
-# 🧠 Data Structures & Algorithms
+## 🧠 Problem Solving
 
-I'm actively improving my problem-solving skills using **Java**.
+Currently strengthening my **DSA & problem-solving skills with Java**.
 
-### 📌 Focus Areas
+<p>
+<a href="https://leetcode.com/u/PraveshDSA/">
+<img src="https://img.shields.io/badge/LeetCode-PraveshDSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</p>
 
-```text
-Arrays
-Strings
-HashMap / HashSet
-Two Pointer
-Sliding Window
-Stack & Queue
-Linked List
-Recursion
-Binary Search
-Trees
-Sorting
-Searching
-Greedy
-Backtracking
+**Core areas:**
+
+`Arrays` · `Strings` · `Hashing` · `Two Pointer` · `Sliding Window` ·  
+`Stack` · `Queue` · `Linked List` · `Binary Search` · `Trees` · `Sorting` · `Recursion` . `Backtracking`
+
+---
+<p align="center">
+💙 Thanks for visiting my profile
+  
+</p>
